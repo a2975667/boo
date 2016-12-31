@@ -1007,11 +1007,11 @@ body.nav-opened .nav {
     display: none;
 }
 
-.home-template .no-cover .page-title, .archive-template .no-cover .page-title, .tag-template .no-cover .page-title {
+.home-template .no-cover .page-title, .archive-template .no-cover .page-title, .tag-template .no-cover .page-title, .social_link {
     display: inherit;
 }
 
-.archive-template .page-title, .tag-template .page-title{
+.archive-template .page-title, .tag-template .page-title, .social_link{
     font-weight: 700;
     display: inherit;
 }
@@ -1849,7 +1849,7 @@ body:not(.page-template) .post-title {
     }
 
     .home-template .page-title,.home-template .page-description,
-    .archive-template .page-title, .archive-template .page-description {
+    .archive-template .page-title, .archive-template .page-description, .social_link {
         display: inherit;
     }
 
