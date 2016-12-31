@@ -1,6 +1,7 @@
 ![Boo theme logo](http://i.imgur.com/fbifvYJ.png)
 
-> This is my personal version of boo theme! love this original design and want to add some twist to it! :)
+This is my personal version of boo theme! love this original design and want to add some twist to it! :)
+---
 > A beautiful, clean and responsive theme for Ghost. [Live Demo](http://boo-demo.tenoku.com/)
 
 ![Animated gif of Boo theme, home page on a desktop](http://i.imgur.com/0LYO26Q.gif)
