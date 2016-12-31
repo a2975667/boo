@@ -797,7 +797,7 @@ body.nav-opened .nav {
 
 /* Create a bouncing scroll-down arrow on homepage with cover image */
 .scroll-down {
-    display: none;
+    /*display: none;*/
     position: absolute;
     z-index: 100;
     bottom: 45px;
@@ -1599,6 +1599,41 @@ body:not(.page-template) .post-title {
 /* Pastebin */
 .content .embedPastebin {
     margin-bottom: 1.75em;
+}
+
+/* ==========================================================================
+  8.5. User Define here!
+   ========================================================================== */
+
+.main-header-content .social_link {
+    padding: 0;
+    list-style-type: none;
+}
+
+.main-header-content .social_link li {
+    display: inline;
+    font-size: 2.5rem;
+}
+
+.main-header-content .social_link li a {
+    display: inline-block;
+    padding: 10px;
+    transition: all 0.1s ease-in-out;
+    color: rgba(255, 255, 255, 0.8);
+}
+.main-header-content .social_link li a {
+    display: inline-block;
+    padding: 10px;
+    transition: all 0.1s ease-in-out;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.main-header-content.no-cover .social_link li a {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.main-header-content .social_link li a:hover {
+    transform: scale(1.3);
 }
 
 
